@@ -1,16 +1,22 @@
-## Hi there 👋
+# [名字 / RayHentai]
 
-<!--
-**RayHentai/RayHentai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[一句话:Unity 客户端开发,方向 + 在找什么岗位]
 
-Here are some ideas to get you started:
+## 项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [对口项目名]
+[一句话介绍] · [视频](B站链接) · [源码](仓库链接)
+- 亮点:[最能代表你的 1~2 个系统]
+
+### [另一个项目名]
+[一句话介绍] · [视频](B站链接) · [源码](仓库链接)
+
+### Unity 客户端基础框架
+[一句话介绍] · [源码](仓库链接)
+
+## 技术栈
+C# · Unity · UGUI · ……(只写扛得住追问的)
+
+## 学习记录与联系方式
+- 知识库:https://rayhentai.github.io/Ray-s-game-development-knowledge-base/
+- 邮箱:1197856484@qq.com
